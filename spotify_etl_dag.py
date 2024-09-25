@@ -24,7 +24,7 @@ dag = DAG(
     'spotify_final_dag',
     default_args=default_args,
     description='Spotify ETL process 1-min',
-    schedule_interval=dt.timedelta(minutes=5),
+    schedule_interval=dt.timedelta(minutes=50),
 )
 
 def ETL():
