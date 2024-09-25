@@ -4,12 +4,8 @@
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [ETL Process Overview](#etl-process-overview)
-- [Installation/Setup Instructions](#installationsetup-instructions)
 - [Usage](#usage)
 - [Airflow DAG Overview](#airflow-dag-overview)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This project implements an ETL (Extract, Transform, Load) pipeline that pulls data from the Spotify API, processes it using Python, and stores the results in a PostgreSQL database. The pipeline is orchestrated using Apache Airflow to ensure the smooth and reliable scheduling of tasks, allowing for automated data extraction, transformation, and loading into a relational database.
