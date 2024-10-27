@@ -1,4 +1,4 @@
-# Spotify_ELT_Pipeline
+# Automated Spotify Data Pipeline – ETL with Airflow and PostgreSQL
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
